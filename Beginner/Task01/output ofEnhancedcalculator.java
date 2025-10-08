@@ -136,7 +136,7 @@ Rates: 1 USD = 83.5 INR, 1 EUR = 90.0 INR
 Choose (1-4): 1
 Enter amount in INR: 20
 20.00 INR = 0.2395 USD
-Note: Currency rates are static in this demo. For live rates integrate a currency API.
+
 
 -- UNIT CONVERSIONS --
 1) Temperature
