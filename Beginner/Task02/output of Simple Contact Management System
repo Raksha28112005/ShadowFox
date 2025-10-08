@@ -1,0 +1,181 @@
+
+=== Contact Management System ===
+1. Add Contact
+2. View All Contacts
+3. Update Contact
+4. Delete Contact
+5. Search Contact
+6. Exit
+Enter your choice: 1
+Enter name: Raksha R
+Enter phone number: 7892341231
+Enter email: raksha2811@gmail.com
+Contact added successfully!
+
+=== Contact Management System ===
+1. Add Contact
+2. View All Contacts
+3. Update Contact
+4. Delete Contact
+5. Search Contact
+6. Exit
+Enter your choice: 1
+Enter name: sahaha
+Enter phone number: 897652119
+Enter email: sahana278@gmail.com
+Contact added successfully!
+
+=== Contact Management System ===
+1. Add Contact
+2. View All Contacts
+3. Update Contact
+4. Delete Contact
+5. Search Contact
+6. Exit
+Enter your choice: 1
+Enter name: monikha
+Enter phone number: 897353421
+Enter email: monikh99888@gmail.com
+Contact added successfully!
+
+=== Contact Management System ===
+1. Add Contact
+2. View All Contacts
+3. Update Contact
+4. Delete Contact
+5. Search Contact
+6. Exit
+Enter your choice: 2
+
+=== All Contacts ===
+
+Contact 1:
+Name: Raksha R
+Phone: 7892341231
+Email: raksha2811@gmail.com
+----------------
+
+Contact 2:
+Name: sahaha
+Phone: 897652119
+Email: sahana278@gmail.com
+----------------
+
+Contact 3:
+Name: monikha
+Phone: 897353421
+Email: monikh99888@gmail.com
+----------------
+
+=== Contact Management System ===
+1. Add Contact
+2. View All Contacts
+3. Update Contact
+4. Delete Contact
+5. Search Contact
+6. Exit
+Enter your choice: 3
+
+=== All Contacts ===
+
+Contact 1:
+Name: Raksha R
+Phone: 7892341231
+Email: raksha2811@gmail.com
+----------------
+
+Contact 2:
+Name: sahaha
+Phone: 897652119
+Email: sahana278@gmail.com
+----------------
+
+Contact 3:
+Name: monikha
+Phone: 897353421
+Email: monikh99888@gmail.com
+----------------
+Enter contact number to update (1-3): 2
+Enter new name (current: sahaha): mega
+Enter new phone (current: 897652119): 8878888910
+Enter new email (current: sahana278@gmail.com): mega677@gmail.com
+Contact updated successfully!
+
+=== Contact Management System ===
+1. Add Contact
+2. View All Contacts
+3. Update Contact
+4. Delete Contact
+5. Search Contact
+6. Exit
+Enter your choice: 5
+Enter name to search: mega
+
+Contact Found:
+Name: mega
+Phone: 8878888910
+Email: mega677@gmail.com
+
+=== Contact Management System ===
+1. Add Contact
+2. View All Contacts
+3. Update Contact
+4. Delete Contact
+5. Search Contact
+6. Exit
+Enter your choice: 4
+
+=== All Contacts ===
+
+Contact 1:
+Name: Raksha R
+Phone: 7892341231
+Email: raksha2811@gmail.com
+----------------
+
+Contact 2:
+Name: mega
+Phone: 8878888910
+Email: mega677@gmail.com
+----------------
+
+Contact 3:
+Name: monikha
+Phone: 897353421
+Email: monikh99888@gmail.com
+----------------
+Enter contact number to delete (1-3): 3
+Contact deleted successfully!
+
+=== Contact Management System ===
+1. Add Contact
+2. View All Contacts
+3. Update Contact
+4. Delete Contact
+5. Search Contact
+6. Exit
+Enter your choice: 2
+
+=== All Contacts ===
+
+Contact 1:
+Name: Raksha R
+Phone: 7892341231
+Email: raksha2811@gmail.com
+----------------
+
+Contact 2:
+Name: mega
+Phone: 8878888910
+Email: mega677@gmail.com
+----------------
+
+=== Contact Management System ===
+1. Add Contact
+2. View All Contacts
+3. Update Contact
+4. Delete Contact
+5. Search Contact
+6. Exit
+Enter your choice: 6
+Goodbye!
