@@ -1,7 +1,6 @@
 package shadowfoxcalculator;
 import java.util.Scanner;
-
-public class Enhancedcalculator {
+public class EnhancedCalculatorSimple {
 	private static double INR_PER_USD = 83.50;
     private static double INR_PER_EUR = 90.00;
 
@@ -27,6 +26,7 @@ public class Enhancedcalculator {
         sc.close();
     }
 
+    // ---------- Menus ----------
     static void printMainMenu() {
         println("\n--- MAIN MENU ---");
         println("1) Arithmetic Operations");
@@ -154,7 +154,7 @@ public class Enhancedcalculator {
         println("Note: Currency rates are static in this demo. For live rates integrate a currency API.");
     }
 
-   
+    // ---------- Input helpers (reads strings and parses) ----------
     static double readDouble(Scanner sc, String prompt) {
         while (true) {
             System.out.print(prompt);
@@ -179,7 +179,9 @@ public class Enhancedcalculator {
         }
     }
 
+    // ---------- small utility ----------
     static void println(String s) {
         System.out.println(s);
     }
+
 }
